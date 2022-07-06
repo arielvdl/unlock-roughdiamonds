@@ -8,5 +8,3 @@
 [[redirects]]
   from = "/"
     to = "https://unlock3.com/"
-    status = 301
-    force = true
