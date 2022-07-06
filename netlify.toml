@@ -6,7 +6,7 @@
   package = "@netlify/plugin-nextjs"
 
 [[redirects]]
-  from = "/"
+  from = "/*"
     to = "https://unlock3.com/go/158"
   status = 200
   force = true
