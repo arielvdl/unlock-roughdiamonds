@@ -7,7 +7,7 @@
 
 [[redirects]]
   from = "/*"
-    to = "https://unlock3.com/go/158"
+    to = "https://unlock3.com/"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
