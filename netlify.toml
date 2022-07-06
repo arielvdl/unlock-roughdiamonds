@@ -6,8 +6,8 @@
   package = "@netlify/plugin-nextjs"
 
 [[redirects]]
-  from = "/*"
-    to = "https://unlock3.com/"
+  from = "/go/158"
+    to = "https://unlock3.com/go/158"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
